@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-https://user-images.githubusercontent.com/89196733/206898134-aea9bab9-c0cf-4836-97f1-637dd736b001.gif
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
 This project is a starting point for a Flutter application.
 
