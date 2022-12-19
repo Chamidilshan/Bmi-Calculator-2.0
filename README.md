@@ -1,6 +1,15 @@
-# bmicalculator
+# BMI Calcuator 0.5
 
-A new Flutter project.
+A simple flutter app to calculate BMI value of your body. It was created to learn about functionality in flutter. 
+With more features and design BMI calculater app : https://github.com/Chamidilshan/bmi-calculator-app
+## Authors
+
+- [@Chamidilshan](https://www.github.com/Chamidilshan)
+
+
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saxa58)
+
 
 ## Getting Started
 
