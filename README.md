@@ -11,7 +11,7 @@ With more features and design BMI calculater app : https://github.com/Chamidilsh
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saxa58)
 
 
-## Getting Started
+## Demo
 
 ![BMI Calculator](https://user-images.githubusercontent.com/89196733/206898241-e2295530-29db-465d-ae1e-66eef8b6debd.gif)
 
